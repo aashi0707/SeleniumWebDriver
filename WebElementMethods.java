@@ -80,21 +80,6 @@ public class WebElementMethods {
 		{
 			System.out.println("logo is not displayed");
 		}
-			
-		
-		
-		
-		
-		
-		
-		
-		
-        
-        
-		
-		
-		
-		
+				
 	}
-
 }
